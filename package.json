@@ -5,7 +5,7 @@
     "description": "Simple light theme. Colors: Blue, Green, Purple, Grey",
     "version": "0.0.1",
     "repository": {
-        "url": ""
+        "url": "https://github.com/julbau/publu-theme"
     },
     "engines": {
         "vscode": "^1.55.0"
