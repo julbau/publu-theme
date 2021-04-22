@@ -1,0 +1,25 @@
+{
+    "publisher": "julbau",
+    "name": "publu-theme",
+    "displayName": "Publu Theme",
+    "description": "Simple light theme. Colors: Blue, Green, Purple, Grey",
+    "version": "0.0.1",
+    "repository": {
+        "url": ""
+    },
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Publu",
+                "uiTheme": "vs",
+                "path": "./themes/Publu-color-theme.json"
+            }
+        ]
+    }
+}
