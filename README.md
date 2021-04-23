@@ -36,8 +36,8 @@
 
 Repo: https://github.com/gothinkster/realworld
 
-<img src="screenshots/cs.png" width="1000" />
-<img src="screenshots/next-ts.png" width="1000" />
-<img src="screenshots/fastapi-py.png" width="1000" />
+<img src="./screenshots/cs.png" width="1000" />
+<img src="./screenshots/next-ts.png" width="1000" />
+<img src="./screenshots/fastapi-py.png" width="1000" />
 
 
