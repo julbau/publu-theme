@@ -3,7 +3,7 @@
     "name": "publu-theme",
     "displayName": "Publu Theme",
     "description": "Simple light theme. Colors: Blue, Green, Purple, Grey",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "repository": {
         "url": "https://github.com/julbau/publu-theme"
     },
